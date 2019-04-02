@@ -10,7 +10,6 @@ use Lcobucci\JWT\Parser;
  * @package App\GraphQL\v31
  */
 
-//test @
 trait OauthClientTypeTrait
 {
     /**
